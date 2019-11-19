@@ -9,9 +9,6 @@ public void m2()
 {
 	System.out.println("hello");
 }
-	public void m4()
-	{
-		System.out.println("bye");
-	}
+	
 			
 }
